@@ -1,0 +1,21 @@
+{
+  "name": "numberintherange",
+  "version": "0.0.1",
+  "description": "A function to know if a number is in a range",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidportilla179/number-in-the-range.git"
+  },
+  "keywords": ["comparacion", "comparacion de numeros", "matematicas"],
+  "author": "David Portilla <davidportilla179@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidportilla179/number-in-the-range/issues"
+  },
+  "homepage": "https://github.com/davidportilla179/number-in-the-range#readme"
+}
